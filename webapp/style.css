@@ -87,7 +87,7 @@ body{
 }
 @keyframes slide {
   100%{
-    top: -360px;
+    top: -530px;
   }
 }
 .dynamic-txts li span{
